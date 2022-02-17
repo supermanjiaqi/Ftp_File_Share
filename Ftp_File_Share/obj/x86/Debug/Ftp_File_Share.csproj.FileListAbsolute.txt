@@ -1,0 +1,10 @@
+F:\learn\C#\2_Ftp_File\Ftp_File_Share\Ftp_File_Share\bin\Debug\Ftp_File_Share.exe
+F:\learn\C#\2_Ftp_File\Ftp_File_Share\Ftp_File_Share\bin\Debug\Ftp_File_Share.pdb
+F:\learn\C#\2_Ftp_File\Ftp_File_Share\Ftp_File_Share\obj\x86\Debug\Ftp_File_Share.exe
+F:\learn\C#\2_Ftp_File\Ftp_File_Share\Ftp_File_Share\obj\x86\Debug\Ftp_File_Share.pdb
+F:\learn\C#\2_Ftp_File\Ftp_File_Share\Ftp_File_Share\bin\Debug\Ftp_File_Share.exe.config
+D:\learn\C#\2_Ftp_File\Ftp_File_Share\Ftp_File_Share\bin\Debug\Ftp_File_Share.exe.config
+D:\learn\C#\2_Ftp_File\Ftp_File_Share\Ftp_File_Share\obj\x86\Debug\Ftp_File_Share.exe
+D:\learn\C#\2_Ftp_File\Ftp_File_Share\Ftp_File_Share\obj\x86\Debug\Ftp_File_Share.pdb
+D:\learn\C#\2_Ftp_File\Ftp_File_Share\Ftp_File_Share\bin\Debug\Ftp_File_Share.exe
+D:\learn\C#\2_Ftp_File\Ftp_File_Share\Ftp_File_Share\bin\Debug\Ftp_File_Share.pdb
